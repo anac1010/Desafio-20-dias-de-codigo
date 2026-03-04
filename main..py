@@ -4,4 +4,4 @@ b = int(input())
 
 soma = a + b 
 
-print(f'soma = {soma}')
+print(f'SOMA = {soma}')
